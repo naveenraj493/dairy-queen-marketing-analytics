@@ -5,7 +5,7 @@
 **Methods:** Perceptual Mapping · Conjoint Analysis · Value Curve & Kano Model · Structured Problem Framing · Survey Design
 
 > **Key outcome:** Two independent quantitative studies converged on the same answer: launch a **$4.99 oat-milk dairy-free Blizzard through DQ's existing 4,200+ walk-in locations.** In the conjoint model, DQ's optimal configuration scored the highest total preference utility (1.065) of any brand in the set, and perceptual mapping showed exactly why DQ needs to move, since it currently sits in the low-consideration, under-differentiated quadrant.
-> **Presentation:** [Dairy-Free Go-to-Market Deck](reports/DQ_dairy_free_deck.pdf) — market sizing, buyer persona, positioning, and final recommendation.
+> **Presentation:** [Dairy-Free Go-to-Market Deck](reports/DQ_dairy_free_deck.pdf) - market sizing, buyer persona, positioning, and final recommendation.
 
 ---
 
